@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1715437448 source:d:\ds\rr scheduling\linkedlist.c
+	"LinkedList.h"
+	"Process.h"
+	<stdlib.h>
+	<stdio.h>
+
+1715437273 d:\ds\rr scheduling\linkedlist.h
+	"Process.h"
+
+1714045188 d:\ds\rr scheduling\process.h
+
+1715648205 source:d:\ds\rr scheduling\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"process.h"
+
